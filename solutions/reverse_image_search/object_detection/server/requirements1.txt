@@ -1,0 +1,6 @@
+pymilvus==1.1.0
+diskcache==5.2.1
+uvicorn==0.13.4
+PyMySQL==1.0.2
+paddlepaddle==2.1.0
+starlette==0.14.2
