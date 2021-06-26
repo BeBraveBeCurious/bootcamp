@@ -1,0 +1,7 @@
+opencv_python==4.5.2.54
+numpy==1.19.5
+pydantic==1.8.2
+fastapi==0.65.2
+PyYAML==5.4.1
+python-multipart
+aiofiles
